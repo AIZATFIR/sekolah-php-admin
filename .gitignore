@@ -1,0 +1,13 @@
+# Database SQLite binary
+database/*.db
+database/*.sqlite
+
+# Vercel & Environment
+.vercel
+.env
+.env.local
+
+# Operating System
+.DS_Store
+Thumbs.db
+*.log
